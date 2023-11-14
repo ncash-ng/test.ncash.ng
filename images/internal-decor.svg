@@ -1,0 +1,16 @@
+<svg width="967" height="572" viewBox="0 0 967 572" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5">
+<path d="M967 5.73633C932.807 1.94531 898.061 0 862.865 0C474.924 0 141.959 236.119 0 572H425.787C529.787 447.217 686.697 367.631 861.959 367.631C897.852 367.631 932.963 370.957 967 377.318V5.73633Z" fill="url(#paint0_linear_1397_15645)"/>
+<path d="M967 5.73633C932.807 1.94531 898.061 0 862.865 0C474.924 0 141.959 236.119 0 572H425.787C529.787 447.217 686.697 367.631 861.959 367.631C897.852 367.631 932.963 370.957 967 377.318V5.73633Z" fill="url(#paint1_radial_1397_15645)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1397_15645" x1="-2.61831e-05" y1="286" x2="889.7" y2="-576.071" gradientUnits="userSpaceOnUse">
+<stop stop-color="#38B2FF"/>
+<stop offset="1" stop-color="#0F85FF"/>
+</linearGradient>
+<radialGradient id="paint1_radial_1397_15645" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-0.00010169 447.358) rotate(-0.528572) scale(2094.73 263.866)">
+<stop stop-color="#72D9FF"/>
+<stop offset="1" stop-color="#65C4FF" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
