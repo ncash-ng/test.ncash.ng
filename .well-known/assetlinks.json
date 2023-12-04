@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ng.kobogo.mobile",
+      "sha256_cert_fingerprints": [
+        "13:D0:CD:64:DB:A2:CF:DD:C5:24:99:9C:7B:75:C8:89:82:25:13:84:87:79:85:29:C1:D9:E6:BF:CB:2E:5D:87",
+        "45:3C:CC:89:47:8C:AB:7F:73:17:89:9D:FC:EF:17:11:68:3B:94:8E:16:5C:5C:81:F9:BD:0A:E1:D5:7F:25:EB",
+        "45:2E:B9:56:C7:F7:03:7F:A0:54:DA:2E:95:CF:58:B2:E0:88:E8:98:1D:C6:AC:2A:DD:46:B7:02:9B:36:E3:65"
+      ]
+    }
+  }
+]
