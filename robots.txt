@@ -1,3 +1,22 @@
-# https://www.robotstxt.org/robotstxt.html
+User-agent: Googlebot
+Allow: /
+Disallow: /static/css/
+Disallow: /static/js/
+Disallow: /static/media/
+Disallow: /*?*utm_source=
+Disallow: /*?*utm_medium=
+Disallow: /*?*utm_term=
+Disallow: /*?*utm_campaign=
+
 User-agent: *
-Disallow:
+Crawl-delay: 10
+Allow: /
+Disallow: /static/css/
+Disallow: /static/js/
+Disallow: /static/media/
+Disallow: /*?*utm_source=
+Disallow: /*?*utm_medium=
+Disallow: /*?*utm_term=
+Disallow: /*?*utm_campaign=
+
+Sitemap: https://kobogo.ng/sitemap.xml
